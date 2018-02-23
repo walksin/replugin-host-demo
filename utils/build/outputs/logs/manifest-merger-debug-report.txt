@@ -1,0 +1,50 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml:17:1-20:12
+	package
+		ADDED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml
+application
+ADDED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml:19:5-19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/alexlong/.android/build-cache/602a39da4d3d72c07dc6f3a665f04a69c9f5d5eb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/alexlong/.android/build-cache/d51e0c65006c12a1e0e8846f81806e976ada22e1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/alexlong/.android/build-cache/098e1a9afb37f3bffedc7fe977c5815c8c4fe93a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/alexlong/.android/build-cache/276e0e042544ddc6540fbe130d78160daec8f9e6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/alexlong/.android/build-cache/c0f6218b807e62dd16138468c04acb7afd7482db/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/alexlong/.android/build-cache/ed0d36a832e186f29940f9bf5b372835594a4383/output/AndroidManifest.xml:29:5-20
+uses-sdk
+INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:25.3.1] /Users/alexlong/.android/build-cache/602a39da4d3d72c07dc6f3a665f04a69c9f5d5eb/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/alexlong/.android/build-cache/d51e0c65006c12a1e0e8846f81806e976ada22e1/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/alexlong/.android/build-cache/098e1a9afb37f3bffedc7fe977c5815c8c4fe93a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/alexlong/.android/build-cache/276e0e042544ddc6540fbe130d78160daec8f9e6/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/alexlong/.android/build-cache/c0f6218b807e62dd16138468c04acb7afd7482db/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/alexlong/.android/build-cache/ed0d36a832e186f29940f9bf5b372835594a4383/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/alexlong/.android/build-cache/602a39da4d3d72c07dc6f3a665f04a69c9f5d5eb/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/utils/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /Users/alexlong/.android/build-cache/602a39da4d3d72c07dc6f3a665f04a69c9f5d5eb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/alexlong/.android/build-cache/d51e0c65006c12a1e0e8846f81806e976ada22e1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/alexlong/.android/build-cache/098e1a9afb37f3bffedc7fe977c5815c8c4fe93a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/alexlong/.android/build-cache/276e0e042544ddc6540fbe130d78160daec8f9e6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/alexlong/.android/build-cache/c0f6218b807e62dd16138468c04acb7afd7482db/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/alexlong/.android/build-cache/ed0d36a832e186f29940f9bf5b372835594a4383/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/alexlong/.android/build-cache/602a39da4d3d72c07dc6f3a665f04a69c9f5d5eb/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/alexlong/.android/build-cache/602a39da4d3d72c07dc6f3a665f04a69c9f5d5eb/output/AndroidManifest.xml:26:9-47

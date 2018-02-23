@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/alexlong/Documents/PROJECT/ANDROID_SKILL/RePlugin-2.2.2/replugin-sample/host/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
